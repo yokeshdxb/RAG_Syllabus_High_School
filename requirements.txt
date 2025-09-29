@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+ollama
+faiss-cpu
+langchain
+langchain-ollama
+langchain_ollama
+langchain_community
+unstructured
+pypdf
+python-multipart
+scikit-learn
